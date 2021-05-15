@@ -4,7 +4,7 @@ TensorFlow implementation of Show, Attend and Tell: Neural [Image Caption Genera
 
 ![attention_over_time](https://user-images.githubusercontent.com/51900952/118377582-b8f5f180-b5eb-11eb-8c7d-2fc18dcdc496.jpg)
 
-# Getting Started
+## Getting Started
 
 ### Prerequisites
 First, clone this repo and download the dataset there are many open source datasets available for this problem, like Flickr 8k (containing8k images), Flickr 30k (containing 30k images), MS COCO (containing 180k images), etc.  I have used the Flickr 8k dataset which you can download from here or by this [drive link](https://drive.google.com/drive/folders/1kye2WaLsWwsMdZ1TMKgpAkCgaf8kXq_y?usp=sharing) I have used the Flickr 8k dataset which you can download from here. This dataset contains 8000 images each with 5 captions 
