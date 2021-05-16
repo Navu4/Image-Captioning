@@ -14,15 +14,21 @@ https://github.com/Navu4/Image-Captioning
 ```
  
  
-Install dependencies and Libraries required using requirements.txt
+#### Install dependencies and Libraries required using requirements.txt
 ```txt
 pip install -r requirements.txt
 ```
 
-- Run the Image_Captioning_using_VGG.ipynb or Image_captioning_using_Inception.ipynb to Create,Evaluate and Predict Model.[Model File](https://github.com/Navu4/Image-Captioning/tree/main/model_weights) 
+Run the Image_Captioning_using_VGG.ipynb or Image_captioning_using_Inception.ipynb to Create,Evaluate and Predict [Model](https://github.com/Navu4/Image-Captioning/tree/main/model_weights) 
 
 I have Implemented Image-Captioning using Attention Mechanism in which Encoder is implemented using to difference State of Art Model i.e. VGG16 and InceptionV3. The link of the notebook is given below. 
+
+#### Implementation of Image Captioning using Inception as a Encoder.
 ```txt
 https://github.com/Navu4/Image-Captioning/blob/main/Image_captioning_using_Inception.ipynb
+```
+
+#### Implementation of Image Captioning using Inception as a Encoder.
+```
 https://github.com/Navu4/Image-Captioning/blob/main/Image_Captioning_using_VGG.ipynb
 ```
